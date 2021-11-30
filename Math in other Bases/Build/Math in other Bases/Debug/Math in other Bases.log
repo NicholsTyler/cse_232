@@ -1,0 +1,4 @@
+﻿  MathInOtherBases.cpp
+C:\Users\tyler\Downloads\CSE 232\Projects\project1\MathInOtherBases.cpp(26,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tyler\Downloads\CSE 232\Projects\project1\MathInOtherBases.cpp(43,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Math in other Bases.vcxproj -> C:\Users\tyler\Downloads\CSE 232\Projects\project1\Math in other Bases\Debug\Math in other Bases.exe
